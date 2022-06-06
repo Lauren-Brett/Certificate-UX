@@ -1,3 +1,3 @@
-# Certificate UX by Accenture
+# Certificates - UX 
 
 Please look to certificate folder.
